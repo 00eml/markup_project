@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+.beltbanner{
+    display: block;
+    background-color: #333;
+    color: #fff;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.beltbanner-triangle {
+
+}
+.beltbanner-closebtn {
+
+}
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    position: relative;
+}
